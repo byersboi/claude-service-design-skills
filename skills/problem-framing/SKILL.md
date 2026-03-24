@@ -176,6 +176,49 @@ The design challenge should be:
 
 ---
 
+## Life Events as a Framing Lens
+
+In public sector and complex service contexts, **life events** are a powerful way to scope and frame design problems. A life event is a significant moment of change in a person's life — a birth, a bereavement, a job loss, a serious diagnosis, becoming a carer — that typically requires them to interact with multiple services simultaneously.
+
+Life events are useful as a framing lens because they:
+- Reveal the whole experience rather than one organisation's slice of it
+- Expose problems caused by the gaps *between* services, not just within them
+- Surface the human context and emotional weight that problem statements often miss
+
+### Framing from the life event
+
+Instead of framing a problem from an organisational perspective ("How do we improve our referral process?"), frame from the life event:
+
+> "When someone loses their job unexpectedly, what makes it hard for them to access the support they need quickly?"
+
+This shift:
+- Centres the person's experience, not the service's structure
+- Reveals that the problem may span housing, benefits, mental health, and employment services
+- Generates design challenges that no single organisation can solve alone
+
+### Life events problem framing process
+
+**1. Name the life event.**
+Be specific: not "health crisis" but "receiving a serious diagnosis". Not "housing difficulty" but "facing eviction for the first time."
+
+**2. Map the emotional journey.**
+Before mapping touchpoints or processes, sketch the emotional arc. What does the person feel at the moment of the event? In the days after? Weeks later? This emotional context shapes which problems matter most.
+
+**3. List all the organisations involved.**
+Who does this person have to contact during this period? For each, ask: "Is this interaction happening at the right time? Does the person know to come here? Do they have the energy?"
+
+**4. Identify the compounding effects.**
+Life events create cascading needs. A job loss doesn't just require benefits support — it may affect housing, mental health, childcare, and debt. A problem framing that addresses only one dimension misses the compounding reality.
+
+**5. Frame the design challenge at the right level.**
+A life events framing often reveals that the problem is systemic — no single organisation can solve it. The design challenge may need to be framed at the system level:
+
+> "How might we make it easier for someone who has just lost their job to understand what support they are entitled to and access it without needing to approach multiple organisations separately?"
+
+This is a harder challenge to address than a single-service improvement — but it is the right problem.
+
+---
+
 ## Common Mistakes
 
 **Framing as a solution.** "How do we build a better app?" is a solution, not a problem. Strip the solution out and ask: "What problem would this app solve? For whom? Why?"

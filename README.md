@@ -18,6 +18,7 @@ A comprehensive set of Claude Code skills covering the full spectrum of service 
 | `personas` | Create research-based personas and empathy maps |
 | `co-design` | Participatory design — involve users in the design process |
 | `service-metrics` | Measure service quality and experience outcomes |
+| `scottish-approach` | Scottish Approach to Service Design — 7 principles, life events lens, maturity assessment |
 
 ## Installation
 

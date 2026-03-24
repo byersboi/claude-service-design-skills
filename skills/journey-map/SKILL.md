@@ -154,7 +154,54 @@ Build the map in synthesis sessions following fieldwork. Use affinity mapping to
 
 ---
 
+## Multi-Organisation Journey Mapping
+
+When a journey crosses multiple organisations — common in public sector, health and social care, or any complex service ecosystem — standard journey mapping needs extending.
+
+### The core challenge
+
+Each organisation typically maps only its own portion of the journey. The result is a collection of partial maps that nobody owns end-to-end. The seams between organisations — the handoffs — are where experience quality most commonly collapses, and they are invisible in any single organisation's map.
+
+### How to approach it
+
+**1. Scope from the life event, not the service.**
+Start the journey at the trigger that brings someone into the system (a diagnosis, a job loss, a birth, a bereavement) — not at the point they first contact your organisation. This forces the map to include everything that precedes your involvement.
+
+**2. Add an organisations row.**
+Alongside the standard rows (actions, touchpoints, emotions), add a row showing which organisation the person is interacting with at each point. Colour-code by organisation to make cross-boundary transitions visible at a glance.
+
+**3. Map handoffs explicitly.**
+At each point where the person moves from one organisation to another, document:
+- What information transfers (and what doesn't)
+- Who initiates the handoff (organisation or person)
+- What the person is told to expect next
+- What actually happens vs. what should happen
+
+**4. Mark the accountability gaps.**
+Identify stages where no single organisation is responsible for the person's experience. These are the highest-priority design opportunities — and the hardest to address because they require cross-organisational agreement.
+
+**5. Run the mapping session across organisations.**
+Invite representatives from all involved organisations to the mapping session. The moment of shared understanding — when Organisation A realises what Organisation B has to deal with as a consequence of A's process — is where the most valuable insight emerges.
+
+### Multi-organisation map structure
+
+```
+Stage          | Trigger | Org A contact | Handoff | Org B contact | Handoff | Org C contact
+---------------|---------|---------------|---------|---------------|---------|---------------
+Actions        |         |               |         |               |         |
+Organisation   |  None   |    Org A      |  Both   |    Org B      |  Both   |    Org C
+Touchpoints    |         |               |         |               |         |
+Thoughts       |         |               |         |               |         |
+Emotions       |         |               |         |               |         |
+Accountability |  Gap    |    Org A      |  Gap    |    Org B      |  Gap    |    Org C
+```
+
+The **accountability row** makes gaps visible. Wherever the cell reads "Gap", there is a design opportunity — and a conversation to have about who should own it.
+
+---
+
 ## Additional Resources
 
 - **`references/journey-map-template.md`** — Full template with row-by-row prompts and example content
 - **`references/emotional-curve-guide.md`** — How to construct and present the emotional curve
+- **`references/multi-organisation-mapping.md`** — Extended guide to cross-agency journey mapping with workshop agenda
