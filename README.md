@@ -20,6 +20,7 @@ A comprehensive set of Claude Code skills covering the full spectrum of service 
 | `service-metrics` | Measure service quality and experience outcomes |
 | `scottish-approach` | Scottish Approach to Service Design — 7 principles, life events lens, maturity assessment |
 | `content-design` | Writing and designing service content — plain English, GDS style, form questions, transactional patterns |
+| `service-standards` | What makes a good service — Lou Downe's 15 Principles and the GDS Service Standard |
 
 ## Installation
 
