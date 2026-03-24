@@ -19,6 +19,7 @@ A comprehensive set of Claude Code skills covering the full spectrum of service 
 | `co-design` | Participatory design — involve users in the design process |
 | `service-metrics` | Measure service quality and experience outcomes |
 | `scottish-approach` | Scottish Approach to Service Design — 7 principles, life events lens, maturity assessment |
+| `content-design` | Writing and designing service content — plain English, GDS style, form questions, transactional patterns |
 
 ## Installation
 

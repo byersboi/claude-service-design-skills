@@ -1,0 +1,11 @@
+# Claude Code local settings
+.claude/
+.claude-plugin/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.idea/
+.vscode/
