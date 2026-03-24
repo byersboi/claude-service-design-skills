@@ -1,6 +1,6 @@
 ---
 name: Ideation
-description: This skill should be used when the user asks about "ideation", "brainstorming", "idea generation", "how might we", "HMW", "crazy 8s", "SCAMPER", "concept development", "generate ideas", "ideation workshop", "design ideas", "dot voting", "idea prioritisation", "divergent thinking", "creative techniques", "worst possible idea", "yes and", "concept sketching", or needs help generating and developing ideas for a service design challenge.
+description: This skill should be used when the user asks about "ideation", "brainstorming", "idea generation", "how might we", "HMW", "crazy 8s", "SCAMPER", "concept development", "generate ideas", "ideation workshop", "design ideas", "dot voting", "idea prioritisation", "divergent thinking", "creative techniques", "worst possible idea", "yes and", "concept sketching", "tomorrow's news", "newspaper from the future", "future visioning", "vision workshop", or needs help generating and developing ideas for a service design challenge.
 version: 1.0.0
 ---
 
@@ -141,6 +141,27 @@ SCAMPER is a checklist of transformations to apply to an existing idea or servic
 4. Everyone contributes equally regardless of seniority
 
 **Duration:** 20–30 minutes
+
+---
+
+### Tomorrow's News
+
+**When to use:** Aligning a team on what success looks like before detailed design begins; surfacing different definitions of success among stakeholders; building shared vision when a prototype does not yet exist; anchoring ideation in a compelling end state rather than incremental improvements.
+
+**How to run:**
+1. Give each participant (or small group of 2–3) a printed newspaper front-page template, or a blank sheet divided into: headline, sub-headline, article (3–5 sentences), and a "reaction quote" from a user.
+2. Set the scene: *"It's [specific date — 18 months from now / the end of the project]. The service has launched and is being celebrated as a genuine success. Write the newspaper front page about it."*
+3. Allow 10–15 minutes for writing — individually or in groups.
+4. Share back: each group reads their front page aloud. Note where visions align and where they diverge.
+5. Debrief: "What would need to be true for this headline to be real? What are we not yet doing that would get us there?"
+
+**Why it works:** Starting from a vivid success story bypasses the defensive thinking that can stall vision exercises. Participants write from a position of achieved success rather than from current constraints, which tends to produce bolder, more specific descriptions of what good looks like. The newspaper format — headline, evidence, human reaction — forces people to articulate not just what the service does but why it matters and who it matters to.
+
+**Divergence is the point:** When different participants write significantly different headlines, that divergence is often more valuable than the content itself. It surfaces competing assumptions about what success means — assumptions that, left unexamined, would surface later as project conflict.
+
+**Variation — multiple perspectives:** Ask each group to include reaction quotes from three different people: a user, a frontline staff member, and a senior leader or commissioner. This surfaces how success might look different depending on where you stand in the system, and generates the kind of multi-stakeholder thinking that is easy to skip in ideation.
+
+**Duration:** 10–15 minutes writing + 10–15 minutes sharing and debrief
 
 ---
 

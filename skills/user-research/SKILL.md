@@ -1,6 +1,6 @@
 ---
 name: User Research
-description: This skill should be used when the user asks about "user research", "research planning", "user interviews", "interview guide", "discussion guide", "contextual inquiry", "observation", "ethnography", "diary study", "research synthesis", "affinity mapping", "how to do research", "research methods", "recruiting participants", "research debrief", "insight generation", "qualitative research", "survey design", or needs help planning, conducting, or synthesising user research for a design project.
+description: This skill should be used when the user asks about "user research", "research planning", "user interviews", "interview guide", "discussion guide", "contextual inquiry", "observation", "ethnography", "diary study", "research synthesis", "affinity mapping", "how to do research", "research methods", "recruiting participants", "research debrief", "insight generation", "qualitative research", "survey design", "vox pops", "research wall", "observer effect", "Hawthorne effect", "task setting in research", or needs help planning, conducting, or synthesising user research for a design project.
 version: 1.0.0
 ---
 
@@ -68,6 +68,26 @@ Watching without intervening. The researcher observes service interactions, wait
 
 ---
 
+### The Observer Effect
+
+When participants are aware they are being observed or researched, they often change their behaviour — typically becoming more careful, more performative, or more aligned with what they think the researcher wants to see. This is known as the observer effect (and as the Hawthorne effect in workplace research contexts).
+
+**Where it matters most:**
+
+- **Contextual inquiry and shadowing:** Participants may perform tasks more carefully than usual, explain steps they would normally skip, or behave more "by the book" than they would in isolation.
+- **Task-setting:** Asking a participant to "now do X while I watch" creates an artificial condition. The participant knows what outcome is expected and orients their behaviour toward it. What you observe tells you how people approach a task they have been asked to demonstrate — not necessarily how they approach it naturally.
+
+**Mitigations:**
+- Allow a settling-in period at the start of observation — spend 15–30 minutes building rapport before recording key observations
+- Observe multiple participants and look for patterns that persist across individuals
+- Ask explicitly: "Is this what you would normally do, or are you doing it differently because I'm here?"
+- Complement observation with artefact review — completed forms, records, workaround documents — which reflect actual past behaviour rather than observed present behaviour
+- In diary studies, remind participants regularly to capture what actually happens, not what they think they should be doing
+
+**Note on task-set observations:** Flag in your synthesis notes which observations came from tasks you set versus natural behaviour. The two can be significantly different and lead to different design implications.
+
+---
+
 ### Diary Studies
 
 Participants record their own experiences, thoughts, and behaviours over a period of time — using written diaries, photos, audio, or video.
@@ -89,6 +109,20 @@ Designed provocations sent to participants to generate creative, subjective resp
 **When to use:** Sensitive topics, hard-to-reach audiences, when standard methods feel too clinical.
 
 **Not for:** Generating quantitative data or systematic insight. Cultural probes generate stimuli for conversation — they require follow-up interviews to interpret.
+
+---
+
+### Vox Pops
+
+Short, informal responses captured in public or service environments — typically 30–60 seconds per person. The name comes from the Latin *vox populi* ("voice of the people").
+
+**When to use:** Gathering a wide range of quick perspectives from a broad population; understanding emotional reactions to a service or issue; generating stakeholder engagement material that conveys the range of people's lived experience; supplementing depth methods with breadth.
+
+**How to run:** Approach people in or near the service environment — waiting areas, community spaces, service entrances. Ask one or two simple, open questions. Keep it brief and low-pressure: "I'm just doing a quick bit of research — do you have 30 seconds?" Record audio or video with consent, or take written notes.
+
+**Sample size:** 15–30 responses for a meaningful range of perspectives.
+
+**Limitations:** Vox pops surface breadth, not depth. The brevity of the format means participants cannot explore nuance, and responses reflect what people are willing to say on the spot — not necessarily their most considered views. Treat vox pops as a complement to depth methods, not a replacement. They are useful for early discovery and for bringing stakeholders close to user voices.
 
 ---
 
@@ -204,6 +238,26 @@ Aim for 5–10 insights per research phase. Each insight should be:
 - Grounded in multiple data points
 - Non-obvious (if everyone knew it already, it is not an insight)
 - Actionable (it should point toward a design opportunity)
+
+---
+
+## The Research Wall
+
+A research wall is a physical or digital space where raw evidence — quotes, photos, observations, artefacts — is made continuously visible to the whole team throughout a project.
+
+The research wall is not a synthesis output. It is a working environment. Its purpose is to keep the team close to the evidence at all times, so that design decisions can be traced directly to what was actually heard or seen.
+
+**How to set one up:**
+
+- Dedicate a section of physical wall space or a persistent digital board (Miro, Mural) to raw research evidence
+- Pin verbatim quotes, photos from fieldwork, copies of documents participants showed you, participant sketches, and observations captured in the field
+- Organise loosely by theme or research question, but resist over-organising — the wall should feel like evidence in progress, not a finished output
+- Update it as research continues — add new observations in real time rather than batching them after a synthesis session
+- Keep it accessible to the whole team, not just the researchers
+
+**Why it works:** Decisions made close to the evidence are better decisions. When designers, delivery managers, and stakeholders can point to a specific quote or photo that supports a design choice, the decision has legitimate grounding. The research wall keeps the team honest about what was actually found, not what they remember or assume.
+
+**Using the wall with stakeholders:** Before major project decisions, bring stakeholders to the wall. A stakeholder who has spent time in front of a research wall — reading quotes, looking at photos, seeing the volume and range of evidence — is harder to convince to override the research on the basis of internal assumptions. The wall becomes a persuasion tool as well as a team tool.
 
 ---
 
