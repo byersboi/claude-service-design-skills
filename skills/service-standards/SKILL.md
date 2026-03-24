@@ -144,6 +144,40 @@ There should always be a clear, easy route for a user to speak to a person if th
 
 The Government Digital Service (GDS) Service Standard (gov.uk/service-manual/service-standard) sets out 14 criteria that UK government services must meet. Where the 15 Principles focus on the experience of a service, the GDS Standard focuses on how a team builds and runs it.
 
+### Why the Standard exists: the scale problem
+
+Government is the oldest and largest service provider in the UK. The scale is hard to overstate:
+
+- Approximately **10,000 services** across government
+- **25 departments**
+- **418,343 people** delivering those services
+
+> "Most of government is mostly service design most of the time."
+> — Matt Edgar, Head of Design, NHS Digital
+
+The vast majority of these services were not designed for the internet — they were designed for paper, telephone, or face-to-face delivery, and then digitised without being redesigned. The Service Standard exists to establish shared quality criteria at that scale: not just for individual flagship services, but across everything.
+
+### From the Digital Service Standard to the Government Service Standard
+
+The original **Digital Service Standard** focused specifically on digital delivery — it applied to online transactions above a certain transaction volume threshold. This created a structural gap: it applied well to high-volume digital services, but left the majority of government services — lower-volume services, policy delivery, telephony, face-to-face services — without a common quality framework.
+
+In 2018, GDS began the shift to the **Government Service Standard** — broadening the scope from digital services to all government services, and from transactions to the whole problem a user is trying to solve. The key changes in emphasis were:
+
+| From | To |
+|------|----|
+| Digital Service Standard | Government Service Standard |
+| Applies to digital transactions | Applies to all government services |
+| Focused on individual transactions | Focused on whole problems users are trying to solve |
+| Primarily a technology quality standard | A service design quality standard |
+
+Three themes were foregrounded in the revised standard:
+
+- **Understand your context** — know the landscape of the service: what else exists, what users are already doing, what the constraints are
+- **Think big but take small steps** — design toward a whole-service vision, but deliver in iterative increments that each provide value
+- **Join up across channels** — the service must work coherently whether the user is online, on the phone, or in person
+
+The standard was then made public, enforced, and subject to ongoing iteration — following the same principles it asks services to embody.
+
 ### The 14 criteria (summary)
 
 | # | Criterion |
@@ -245,3 +279,5 @@ Prioritise gaps by impact: which unmet principles are causing the most harm to u
 - **GDS Service Standard:** gov.uk/service-manual/service-standard
 - **GDS Service Manual:** gov.uk/service-manual — detailed guidance on meeting each criterion
 - **`references/service-assessment-prep.md`** — How to prepare for a GDS service assessment at Alpha, Beta, and Live
+- **`skills/accessibility/SKILL.md`** — Detailed guidance on accessibility requirements, WCAG, and accessibility statements (relevant to Principle 11 and Standard criterion 5)
+- **`skills/service-communities/SKILL.md`** — How to design and deliver services that span multiple departments (relevant to Principles 7 and 9, Standard criteria 2 and 3)
