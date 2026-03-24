@@ -118,6 +118,33 @@ Ask participants to map their own experience — journey maps, stakeholder maps,
 
 **Participant journey mapping:** Give participants a blank journey map template and ask them to fill in their own experience. Then use this as a basis for discussion.
 
+### Evaluate existing examples
+
+Show participants real examples of comparable services, products, or communications and ask them to critique them before generating ideas of their own. This grounds the session in reality rather than starting from a blank page, and quickly surfaces what participants value and what frustrates them.
+
+**How to run it:**
+1. Select 3–5 real examples — from your own service, comparable services, or sector peers. Print or display them.
+2. Give each participant sticky notes in two or three colours (e.g., green = good, pink = criticism, yellow = improvement idea).
+3. Ask participants to place notes against each example. Give 10–15 minutes.
+4. Debrief as a group: what patterns emerged? What did everyone agree on?
+
+**Why it works:** Critiquing something concrete is easier than generating ideas in the abstract. Participants immediately engage because they have opinions. The outputs — patterns of what works and what doesn't — directly feed the ideation phase that follows.
+
+**Useful for:** Services with existing touchpoints to review; teams who struggle to start from nothing; mixed groups where some participants know the service well and others don't.
+
+### Rip n mix
+
+Participants take elements from a range of existing examples — communications, interfaces, physical products, services from other sectors — and recombine them into something new for the service being designed.
+
+**How to run it:**
+1. Prepare a stimulus pack: printed examples of communications or service touchpoints from a wide range of sources — some directly relevant, some analogous from other industries.
+2. Ask participants to select elements they like from across the pack — a tone of voice from one, a format from another, a structure from a third.
+3. Using those elements as raw material, ask them to sketch or describe a new version of the thing you are designing.
+
+**Why it works:** The constraint of recombining existing elements is liberating — it removes the blank-page anxiety of pure ideation. It also often produces unexpectedly lateral ideas because participants draw from outside the usual frame of reference.
+
+**Useful for:** Communications design, content redesign, interface design workshops; any session where participants need to move quickly from inspiration to concept.
+
 ### Prioritisation activities
 
 Dot voting, card sorting, and 2x2 matrices work well in co-design because they are accessible, quick, and generate visible outputs.

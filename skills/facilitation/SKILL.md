@@ -183,6 +183,10 @@ Senior seniority suppresses honest contribution. Mitigations:
 
 **Build in buffer.** Every activity takes longer than planned. Add 20–25% buffer to your total timing.
 
+**Fewer activities, done well.** A common mistake — especially for new facilitators — is packing too many activities into the available time and cutting each one short. Three activities completed properly produce better outputs than six activities half-finished. When planning, ask: "If I could only do one activity in this session, which would it be?" Protect that one. Everything else is optional.
+
+**When participants go off-topic.** Participants sometimes veer away from the task and into broader discussion about the topic. The instinct is to redirect immediately — but pause first. Tangential conversations occasionally surface a bigger, more important issue than the one you planned to address. Listen for 60–90 seconds before intervening. If the discussion is generating genuine insight, note it and create a brief space for it before returning to the task: "That's really important — let's capture that on a sticky note and come back to it. For now, let's finish this activity." If it is simply going in circles, redirect with energy: "Brilliant — let's take that as our starting point for the next activity."
+
 ---
 
 ## Level Guidance
