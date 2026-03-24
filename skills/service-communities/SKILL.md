@@ -23,7 +23,6 @@ Users do not experience government as departments. They experience it as tasks �
 From the user's perspective, this is one service. From government's perspective, it is dozens of separate systems, each owned by a different team with different funding, governance, technology, and culture.
 
 > "The structure of government isn't designed to meet user needs."
-> — Kate Ivey-Williams, GDS, 2018
 
 This structural mismatch is not a failure of individual teams — it is a design problem at the level of government itself. Service communities are a practical response to that problem.
 
@@ -32,7 +31,7 @@ This structural mismatch is not a failure of individual teams — it is a design
 ## What Is a Service Community?
 
 > "Semi-formal networks of people with different skills that work across departments and agencies to design and deliver end-to-end services."
-> — GDS, 2018
+> — Government Digital Service
 
 **Key characteristics:**
 
