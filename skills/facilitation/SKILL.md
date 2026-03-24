@@ -85,6 +85,16 @@ For each activity, define:
 
 **Warm-up question:** A low-stakes question unrelated to the work: "What would your superpower be?" Lowers defences and builds energy.
 
+**Draw a present:** A physical icebreaker that demonstrates the core design shift from designing for yourself to designing for users — ideal for opening co-design sessions or introducing service design to a new audience.
+
+*How to run it:*
+1. Give everyone a sticky note and a marker. Ask them to draw a present in ten seconds. Most people draw a box with a ribbon — the same image. Point this out: drawing is a shared language; everyone understood the brief.
+2. Ask them to draw the *perfect* present in ten seconds. People draw things meaningful to them — a book, a holiday, a pet.
+3. Ask them to hand their drawing to the person next to them. Ask: "Is this their perfect present?"
+4. Debrief: when you designed the perfect present, you designed it for yourself — not for the person receiving it. That is exactly what happens in service design when we build without involving users. The rest of today's session is about doing the opposite.
+
+*Why it works:* It is fast, physical, and makes the abstract concrete. The moment of handing over the drawing — and the slight awkwardness of receiving something clearly not meant for you — lands the user-centred design principle better than any explanation.
+
 ### Generative Activities
 
 **Brainstorming:** Divergent idea generation. Set clear rules: build on ideas, no evaluation, quantity over quality, wild ideas welcome. Use a prompt or HMW question as the stimulus.
